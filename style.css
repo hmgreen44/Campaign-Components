@@ -1,0 +1,12 @@
+html, body {
+    height: 100vh;
+    
+}
+.background{
+    background-image: url('./img/Laidback.jpg');
+    min-height:500px
+}
+.background2{
+    background-image: url('./img/Skyline.jpg');
+    min-height:400px;
+}
